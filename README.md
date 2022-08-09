@@ -1,6 +1,6 @@
 # Salut 👋 Je me nomme Steve SANKARA
 ## Ingénieur réseau et passionné de programmation😄.
-### Je code:
+### Je code en:
 - HTML
 - CSS
 - PHP
