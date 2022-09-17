@@ -8,7 +8,7 @@
 - Python
 - C
 
-### Actuellement en cours d'apprentissage de Python avec Developers institute⚡.
+### Actuellement en cours d'apprentissage avec Developers institute⚡.
 
 [Vous pouvez lire un article sur cette formation](https://stvsank.medium.com/lunivers-merveilleux-de-la-programmation-d%C3%A9couverte-de-developers-institute-di-51c2d1aaa100)
 <!--
