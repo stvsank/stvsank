@@ -3,7 +3,9 @@
 ### Je code en:
 - HTML
 - CSS
+- Java-Script 
 - PHP
+- Python
 - C
 
 ### Actuellement en cours d'apprentissage de Python avec Developers institute⚡.
