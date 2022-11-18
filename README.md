@@ -1,16 +1,6 @@
 # Salut 👋 Je me nomme Steve SANKARA
 ## Ingénieur réseau et passionné de programmation😄.
-### Je code en:
-- HTML
-- CSS
-- Java-Script 
-- PHP
-- Python
-- C
 
-### Actuellement en cours d'apprentissage avec Developers institute⚡.
-
-[Vous pouvez lire un article sur cette formation](https://stvsank.medium.com/lunivers-merveilleux-de-la-programmation-d%C3%A9couverte-de-developers-institute-di-51c2d1aaa100)
 <!--
 **stvsank/stvsank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
