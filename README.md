@@ -1,5 +1,4 @@
 # Salut 👋 Je me nomme Steve SANKARA
-## Ingénieur réseau et passionné de programmation😄.
 
 <!--
 **stvsank/stvsank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
